@@ -31,6 +31,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel&logoColor=FF6C2C)
+
+**Ferramentas de Banco de Dados**
+
+![Toad for Oracle](https://img.shields.io/badge/Toad_for_Oracle-333333?style=flat&logo=quest&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
@@ -38,6 +44,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
+![Monday](https://img.shields.io/badge/-Monday.com-333333?style=flat&logo=monday&logoColor=white)
 ![Embarcadero](https://img.shields.io/badge/-Embarcadero-333333?style=flat&logo=embarcadero&logoColor=ED1F35)
 ![DBDiagram](https://img.shields.io/badge/-DBDiagram-333333?style=flat&logo=diagramsdotnet&logoColor=F08705)
 ![SQL Developer](https://img.shields.io/badge/SQL_Developer-333333?style=flat)
