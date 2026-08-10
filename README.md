@@ -1,7 +1,8 @@
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Levi.;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+Desenvolvedor com experiência em PL/SQL, Go e NestJS, trabalhando com bancos de dados como PostgreSQL, Oracle e MongoDB.
+
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-gleidsonlevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleidsonlevi/)](https://www.linkedin.com/in/gleidsonlevi/)
@@ -11,13 +12,19 @@
 
   <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
+**Linguagens e frameworks**
+
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=E62431)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-333333?style=flat)
+
+**Bancos de dados**
 
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=E62431)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?logo=postgresql&logoColor=white)
 
 **Utilidades**
@@ -47,9 +54,6 @@
 ![Monday](https://img.shields.io/badge/-Monday.com-333333?style=flat&logo=monday&logoColor=white)
 ![Embarcadero](https://img.shields.io/badge/-Embarcadero-333333?style=flat&logo=embarcadero&logoColor=ED1F35)
 ![DBDiagram](https://img.shields.io/badge/-DBDiagram-333333?style=flat&logo=diagramsdotnet&logoColor=F08705)
-![SQL Developer](https://img.shields.io/badge/SQL_Developer-333333?style=flat)
-![PLSQL Developer](https://img.shields.io/badge/PLSQL_Developer-333333?style=flat)
-![SQL Navigator](https://img.shields.io/badge/SQL_Navigator-333333?style=flat&logo=sqlnavigator)
-
-
-</br>
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-333333?style=flat&logoColor=white)
+![PLSQL Developer](https://img.shields.io/badge/PLSQL_Developer-333333?style=flat&logoColor=white)
+![SQL Navigator](https://img.shields.io/badge/SQL_Navigator-333333?style=flat&logo=sqlnavigator&logoColor=white)
