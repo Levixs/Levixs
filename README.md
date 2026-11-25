@@ -1,55 +1,94 @@
+<div align="center">
 
+<img src="assets/banner.svg" alt="Gleidson Levi, Senior Software Engineer · Oracle PL/SQL" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Levi.;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-<h3>Onde me encontrar</h3>
-
-[![Linkedin](https://img.shields.io/badge/-gleidsonlevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleidsonlevi/)](https://www.linkedin.com/in/gleidsonlevi/)
-[![Gmail Badge](https://img.shields.io/badge/-gleidsonlevism@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gleidsonlevism@gmail.com)](mailto:gleidsonlevism@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/levixs?label=follow&style=social)](https://github.com/levixs)
 <br>
 
-  <h3>Minhas Skills</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gleidsonlevi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidsonlevi/)
+[![Gmail](https://img.shields.io/badge/Gmail-gleidsonlevism-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleidsonlevism@gmail.com)
+[![Seguidores](https://img.shields.io/github/followers/Levixs?style=for-the-badge&logo=github&label=seguidores&color=181717)](https://github.com/Levixs)
 
-**Aplicações e dados**
+</div>
 
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=E62431)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?logo=postgresql&logoColor=white)
+<br>
 
-**Utilidades**
+## `> whoami`
 
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+```plsql
+DECLARE
+  v_nome      VARCHAR2(50)  := 'Gleidson Levi';
+  v_cargo     VARCHAR2(50)  := 'Senior Software Engineer';
+  v_empresa   VARCHAR2(50)  := '@my-hubs';
+  v_foco      SYS.ODCIVARCHAR2LIST := SYS.ODCIVARCHAR2LIST(
+                'Oracle PL/SQL', 'Modelagem de dados', 'APIs REST', 'Automação com IA');
+BEGIN
+  DBMS_OUTPUT.PUT_LINE(v_nome || ' | ' || v_cargo || ' @ ' || v_empresa);
+  FOR i IN 1 .. v_foco.COUNT LOOP
+    DBMS_OUTPUT.PUT_LINE('  -> ' || v_foco(i));
+  END LOOP;
+END;
+/
+```
 
-**DevOps**
+<br>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
-![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel&logoColor=FF6C2C)
+## `> stack`
 
-**Ferramentas de Banco de Dados**
+<div align="center">
 
-![Toad for Oracle](https://img.shields.io/badge/Toad_for_Oracle-333333?style=flat&logo=quest&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
-![Monday](https://img.shields.io/badge/-Monday.com-333333?style=flat&logo=monday&logoColor=white)
-![Embarcadero](https://img.shields.io/badge/-Embarcadero-333333?style=flat&logo=embarcadero&logoColor=ED1F35)
-![DBDiagram](https://img.shields.io/badge/-DBDiagram-333333?style=flat&logo=diagramsdotnet&logoColor=F08705)
-![SQL Developer](https://img.shields.io/badge/SQL_Developer-333333?style=flat)
-![PLSQL Developer](https://img.shields.io/badge/PLSQL_Developer-333333?style=flat)
-![SQL Navigator](https://img.shields.io/badge/SQL_Navigator-333333?style=flat&logo=sqlnavigator)
+</div>
 
+<details>
+<summary><b>Ferramentas do dia a dia</b></summary>
+<br>
 
-</br>
+`Toad for Oracle` · `PL/SQL Developer` · `SQL Developer` · `SQL Navigator` · `DBeaver` · `Embarcadero` · `DBDiagram` · `Visual Studio` · `VS Code` · `Bitbucket` · `cPanel` · `Trello` · `Monday`
+
+</details>
+
+<br>
+
+## `> projetos`
+
+<div align="center">
+
+<a href="https://github.com/Levixs/open-maestri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Levixs&repo=open-maestri&theme=tokyonight&hide_border=true&bg_color=0b0f1a" alt="open-maestri"></a>
+
+</div>
+
+<br>
+
+## `> stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Levixs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ff6b6b&icon_color=ff9f43&count_private=true" alt="Estatísticas do GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levixs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ff6b6b" alt="Linguagens mais usadas">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Levixs&theme=tokyonight&hide_border=true&background=0b0f1a&ring=ff6b6b&fire=ff9f43&currStreakLabel=ff9f43" alt="Streak">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>`COMMIT;` e bola pra frente.</sub>
+
+</div>
