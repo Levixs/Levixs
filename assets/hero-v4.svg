@@ -18,14 +18,14 @@
     <text x="104" y="40" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" fill="#7d8399">levi.sql</text>
   </g>
 
-  <text x="60" y="124" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#7d8399" letter-spacing="3">ORACLE · PL/SQL · DADOS</text>
+  <text x="60" y="124" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#7d8399" letter-spacing="3">ORACLE · PL/SQL · DATA</text>
   <text x="58" y="206" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="800" fill="#eceef5" letter-spacing="-2">Gleidson Levi</text>
   <text x="60" y="248" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="url(#ac)">Senior Database Engineer</text>
-  <text x="60" y="280" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">6+ anos de Oracle, de 9i a 21c. PL/SQL,</text>
-  <text x="60" y="306" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">performance e integrações de ERP.</text>
+  <text x="60" y="280" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">6+ years of Oracle, from 9i to 21c. PL/SQL,</text>
+  <text x="60" y="306" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">performance and ERP integrations.</text>
 
   <g clip-path="url(#type)">
-    <text x="60" y="344" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="15" fill="#eceef5"><tspan fill="#ff5a4f">SELECT</tspan> experiencia <tspan fill="#ff5a4f">FROM</tspan> levi <tspan fill="#ff5a4f">WHERE</tspan> anos &gt; 6;</text>
+    <text x="60" y="344" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="15" fill="#eceef5"><tspan fill="#ff5a4f">SELECT</tspan> experience <tspan fill="#ff5a4f">FROM</tspan> levi <tspan fill="#ff5a4f">WHERE</tspan> years &gt; 6;</text>
   </g>
 
   <g transform="translate(790 190)">
