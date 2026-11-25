@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-label="Gleidson Levi, Senior Database Engineer">
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff5a4f"/><stop offset="1" stop-color="#ffb454"/></linearGradient>
+    <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5a4f" stop-opacity=".9"/><stop offset="1" stop-color="#ffb454" stop-opacity=".55"/></linearGradient>
+    <linearGradient id="side1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8f2a24"/><stop offset=".5" stop-color="#d9483f"/><stop offset="1" stop-color="#7a231e"/></linearGradient>
+    <linearGradient id="side2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a8402a"/><stop offset=".5" stop-color="#f0663e"/><stop offset="1" stop-color="#8f3522"/></linearGradient>
+    <linearGradient id="side3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b8741f"/><stop offset=".5" stop-color="#ffb454"/><stop offset="1" stop-color="#a0651a"/></linearGradient>
+    <radialGradient id="halo"><stop offset="0" stop-color="#ff5a4f" stop-opacity=".35"/><stop offset="1" stop-color="#ff5a4f" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity=".05"/></pattern>
+    <clipPath id="type"><rect x="60" y="326" width="0" height="26"><animate attributeName="width" values="0;470;470;0" keyTimes="0;0.45;0.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="1000" height="380" rx="20" fill="#0b0c10"/>
+  <rect width="1000" height="380" rx="20" fill="url(#dots)"/>
+  <rect x=".5" y=".5" width="999" height="379" rx="19.5" fill="none" stroke="#252838"/>
+
+  <g>
+    <circle cx="38" cy="36" r="6" fill="#ff5f57"/><circle cx="58" cy="36" r="6" fill="#febc2e"/><circle cx="78" cy="36" r="6" fill="#28c840"/>
+    <text x="104" y="40" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" fill="#7d8399">levi.sql</text>
+  </g>
+
+  <text x="60" y="124" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#7d8399" letter-spacing="3">ORACLE · PL/SQL · DADOS</text>
+  <text x="58" y="206" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="800" fill="#eceef5" letter-spacing="-2">Gleidson Levi</text>
+  <text x="60" y="248" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="url(#ac)">Senior Database Engineer</text>
+  <text x="60" y="280" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">6+ anos de Oracle, de 9i a 21c. PL/SQL,</text>
+  <text x="60" y="306" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">performance e integrações de ERP.</text>
+
+  <g clip-path="url(#type)">
+    <text x="60" y="344" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="15" fill="#eceef5"><tspan fill="#ff5a4f">SELECT</tspan> experiencia <tspan fill="#ff5a4f">FROM</tspan> levi <tspan fill="#ff5a4f">WHERE</tspan> anos &gt; 6;</text>
+  </g>
+
+  <g transform="translate(790 190)">
+    <ellipse cx="0" cy="0" rx="190" ry="190" fill="url(#halo)"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="5s" repeatCount="indefinite"/>
+      <g>
+        <path d="M-90 62 v50 a90 28 0 0 0 180 0 v-50 z" fill="url(#side1)"/>
+        <ellipse cx="0" cy="62" rx="90" ry="28" fill="#ff5a4f" fill-opacity=".8"/>
+        <path d="M-90 -2 v50 a90 28 0 0 0 180 0 v-50 z" fill="url(#side2)"/>
+        <ellipse cx="0" cy="-2" rx="90" ry="28" fill="#ff7a52"/>
+        <path d="M-90 -66 v50 a90 28 0 0 0 180 0 v-50 z" fill="url(#side3)"/>
+        <ellipse cx="0" cy="-66" rx="90" ry="28" fill="#ffb454"/>
+        <ellipse cx="0" cy="-66" rx="52" ry="14" fill="#ffffff" fill-opacity=".18"/>
+      </g>
+    </g>
+    <circle r="4" fill="#8b7cff"><animateMotion dur="7s" repeatCount="indefinite" path="M-150 0 a150 60 0 1 1 300 0 a150 60 0 1 1 -300 0"/></circle>
+    <circle r="3" fill="#ffb454"><animateMotion dur="11s" repeatCount="indefinite" path="M-120 20 a120 90 0 1 0 240 0 a120 90 0 1 0 -240 0"/></circle>
+  </g>
+</svg>
