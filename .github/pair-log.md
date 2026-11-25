@@ -23,3 +23,4 @@
 - sessão 21
 - sessão 22
 - sessão 23
+- sessão 24
