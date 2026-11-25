@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Gleidson Levi, Tech Lead e Desenvolvedor Back-End" width="100%">
+<img src="assets/hero.svg" alt="Gleidson Levi, Senior Database Engineer" width="100%">
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/gleidsonlevi/) &nbsp;·&nbsp; [Email](mailto:gleidsonlevism@gmail.com) &nbsp;·&nbsp; Oracle AI Database Certified
-
-<br>
-
-<img src="assets/career.svg" alt="Trajetória profissional" width="100%">
+<a href="https://www.linkedin.com/in/gleidsonlevi/"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="44"></a>
+<a href="mailto:gleidsonlevism@gmail.com"><img src="assets/link-email.svg" alt="Email" height="44"></a>
+<img src="assets/link-oracle.svg" alt="Oracle AI Database Certified" height="44">
 
 <br><br>
 
