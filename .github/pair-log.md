@@ -18,3 +18,4 @@
 - sessão 16
 - sessão 17
 - sessão 18
+- sessão 19
