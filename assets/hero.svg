@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-label="Gleidson Levi, Tech Lead e Desenvolvedor Back-End">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-label="Gleidson Levi, Senior Database Engineer">
   <defs>
     <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff5a4f"/><stop offset="1" stop-color="#ffb454"/></linearGradient>
     <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5a4f" stop-opacity=".9"/><stop offset="1" stop-color="#ffb454" stop-opacity=".55"/></linearGradient>
@@ -15,11 +15,11 @@
     <text x="104" y="40" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12" fill="#7d8399">levi.sql</text>
   </g>
 
-  <text x="60" y="128" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="14" fill="#ffb454" letter-spacing="3">TECH LEAD · BACK-END</text>
+  <text x="60" y="128" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="14" fill="#ffb454" letter-spacing="3">SENIOR DATABASE ENGINEER</text>
   <text x="58" y="206" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="800" fill="#eceef5" letter-spacing="-2">Gleidson Levi</text>
   <rect x="60" y="226" width="120" height="5" rx="2.5" fill="url(#ac)"/>
-  <text x="60" y="268" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">6+ anos de Oracle, de 9i a 21c. Integrações de ERP,</text>
-  <text x="60" y="294" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">APIs e engenharia com agentes de IA.</text>
+  <text x="60" y="268" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">6+ anos de Oracle, de 9i a 21c. PL/SQL,</text>
+  <text x="60" y="294" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#7d8399">performance e integrações de ERP.</text>
 
   <g clip-path="url(#type)">
     <text x="60" y="326" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="15" fill="#eceef5"><tspan fill="#ff5a4f">SELECT</tspan> experiencia <tspan fill="#ff5a4f">FROM</tspan> levi <tspan fill="#ff5a4f">WHERE</tspan> anos &gt; 6;</text>
