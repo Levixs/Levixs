@@ -17,3 +17,4 @@
 - sessão 15
 - sessão 16
 - sessão 17
+- sessão 18
