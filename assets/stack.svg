@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="316" viewBox="0 0 1000 316" role="img" aria-label="Stack">
+  <rect width="1000" height="316" rx="20" fill="#0b0c10"/>
+  <rect x=".5" y=".5" width="999" height="315" rx="19.5" fill="none" stroke="#252838"/>
+  <text x="40" y="44" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#7d8399" letter-spacing="3">STACK</text>
+  <text x="40" y="94" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="11" fill="#7d8399" letter-spacing="2">LINGUAGENS</text>
+  <g><rect x="190" y="70" width="80" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="230" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Python</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.00s" fill="freeze"/></g>
+  <g><rect x="280" y="70" width="80" height="34" rx="17" fill="#ff5a4f" fill-opacity="0.16" stroke="#ff5a4f"/>
+    <text x="320" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#ff5a4f">PL/SQL</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.07s" fill="freeze"/></g>
+  <g><rect x="370" y="70" width="55" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="397.5" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">SQL</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.14s" fill="freeze"/></g>
+  <g><rect x="435" y="70" width="47" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="458.5" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Go</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.21s" fill="freeze"/></g>
+  <g><rect x="492" y="70" width="80" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="532" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Delphi</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.28s" fill="freeze"/></g>
+  <g><rect x="582" y="70" width="47" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="605.5" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">C#</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.35s" fill="freeze"/></g>
+  <text x="40" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="11" fill="#7d8399" letter-spacing="2">BANCOS</text>
+  <g><rect x="190" y="128" width="156" height="34" rx="17" fill="#ff5a4f" fill-opacity="0.16" stroke="#ff5a4f"/>
+    <text x="268" y="150" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#ff5a4f">Oracle 9i a 21c</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.20s" fill="freeze"/></g>
+  <g><rect x="356" y="128" width="114" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="413" y="150" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">PostgreSQL</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.27s" fill="freeze"/></g>
+  <g><rect x="480" y="128" width="72" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="516" y="150" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">MySQL</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.34s" fill="freeze"/></g>
+  <g><rect x="562" y="128" width="89" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="606.5" y="150" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">MongoDB</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.41s" fill="freeze"/></g>
+  <text x="40" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="11" fill="#7d8399" letter-spacing="2">BACK-END</text>
+  <g><rect x="190" y="186" width="80" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="230" y="208" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">NestJS</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.40s" fill="freeze"/></g>
+  <g><rect x="280" y="186" width="89" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="324.5" y="208" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">FastAPI</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.47s" fill="freeze"/></g>
+  <g><rect x="379" y="186" width="80" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="419" y="208" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Django</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.54s" fill="freeze"/></g>
+  <g><rect x="469" y="186" width="72" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="505" y="208" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Flask</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.61s" fill="freeze"/></g>
+  <g><rect x="551" y="186" width="89" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="595.5" y="208" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Next.js</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.68s" fill="freeze"/></g>
+  <text x="40" y="268" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="11" fill="#7d8399" letter-spacing="2">DEVOPS E IA</text>
+  <g><rect x="190" y="244" width="148" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="264" y="266" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">GitHub Actions</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.60s" fill="freeze"/></g>
+  <g><rect x="348" y="244" width="131" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="413.5" y="266" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Azure DevOps</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.67s" fill="freeze"/></g>
+  <g><rect x="489" y="244" width="122" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="550" y="266" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Claude Code</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.74s" fill="freeze"/></g>
+  <g><rect x="621" y="244" width="72" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="657" y="266" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">Codex</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.81s" fill="freeze"/></g>
+  <g><rect x="703" y="244" width="55" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="730.5" y="266" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">MCP</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.88s" fill="freeze"/></g>
+  <g><rect x="768" y="244" width="97" height="34" rx="17" fill="#12141b" fill-opacity="1" stroke="#252838"/>
+    <text x="816.5" y="266" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#eceef5">OpenSpec</text>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.95s" fill="freeze"/></g>
+</svg>
