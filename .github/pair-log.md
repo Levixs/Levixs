@@ -6,3 +6,4 @@
 - sessão 4
 - sessão 5
 - sessão 6
+- sessão 7
