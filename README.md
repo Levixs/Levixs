@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="assets/hero-v2.svg" alt="Gleidson Levi, Senior Database Engineer" width="100%">
+<img src="assets/hero-v3.svg" alt="Gleidson Levi, Senior Database Engineer" width="100%">
 
-<br>
+<br><br><br>
 
-<a href="https://www.linkedin.com/in/gleidsonlevi/"><img src="assets/link-linkedin-v2.svg" alt="LinkedIn" height="44"></a>
-<a href="mailto:gleidsonlevism@gmail.com"><img src="assets/link-email-v2.svg" alt="Email" height="44"></a>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C614DD69FE5EA6BDDA4F49E4BB0D3370F5133395AC89296C6C45CFEDF9B51E2A"><img src="assets/link-oracle-v2.svg" alt="Oracle AI Database Certified" height="44"></a>
+<a href="https://www.linkedin.com/in/gleidsonlevi/"><img src="assets/link-linkedin-v3.svg" alt="LinkedIn" height="44"></a>
+<a href="mailto:gleidsonlevism@gmail.com"><img src="assets/link-email-v3.svg" alt="Email" height="44"></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C614DD69FE5EA6BDDA4F49E4BB0D3370F5133395AC89296C6C45CFEDF9B51E2A"><img src="assets/link-oracle-v3.svg" alt="Oracle AI Database Certified" height="44"></a>
 
-<br><br>
+<br><br><br>
 
-<img src="assets/stack-v2.svg" alt="Stack" width="100%">
-
-<br><br>
-
-<img src="assets/metrics.svg" alt="Métricas do GitHub" width="100%">
+<img src="assets/stack-v3.svg" alt="Stack" width="100%">
 
 <br><br>
 
