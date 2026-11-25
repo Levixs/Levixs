@@ -14,6 +14,10 @@
 
 <br><br>
 
+<img src="assets/metrics.svg" alt="Métricas do GitHub" width="100%">
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levixs/Levixs/output/snake-dark.svg">
   <img alt="Contribuições" src="https://raw.githubusercontent.com/Levixs/Levixs/output/snake.svg" width="100%">
